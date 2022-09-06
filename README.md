@@ -12,3 +12,6 @@ ACM竞赛时期的一些相关备份资料~.~
 
 ![image-02](https://github.com/Ci-Yelson/ACM-About/blob/main/String%20About/KMP-02.png)
 
+### - SAM
+
+![image-03](https://github.com/Ci-Yelson/ACM-About/blob/main/String%20About/后缀自动机-学习-01.png)
